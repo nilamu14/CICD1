@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 Flask
 sklearn
 pandas
 numpy
 matplotlib
+=======
+Flask
+sklearn
+pandas
+numpy
+matplotlib
+>>>>>>> f57b8134bf6ddf42ce3a3f783d849b912fe7095f
 gunicorn
